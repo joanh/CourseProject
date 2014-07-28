@@ -7,16 +7,16 @@ Code works for an specific path (my personal computer file), but I've splitted t
 
 Frames:
 
-Features ---------------------------------------------------------------->   561 obs.   2 variables
+Features --->   561 obs.   2 variables
 ---
-SubjTest: Subjets numbers (frame) --------------------------------------->  2947 obs.   1 variables
-yTest: Activities (first by codes, after processing by text activities) ->  2947 obs.   1 variables
-DataTest: Data frame from test set (tidy) ------------------------------->  2947 obs. 563 variables
+SubjTest: Subjets numbers (frame) --->  2947 obs.   1 variables
+yTest: Activities (first by codes, after processing by text activities) --->  2947 obs.   1 variables
+DataTest: Data frame from test set (tidy) --->  2947 obs. 563 variables
 ---
-SubjTrain: Subjets numbers (frame) -------------------------------------->  7352 obs.   1 variables
-yTtrain: Activities (first by codes, after processing by text activities)>  7352 obs.   1 variables
-DataTrain: Data frame from train set (tidy) ----------------------------->  7352 obs. 563 variables
+SubjTrain: Subjets numbers (frame) --->  7352 obs.   1 variables
+yTtrain: Activities (first by codes, after processing by text activities) --->  7352 obs.   1 variables
+DataTrain: Data frame from train set (tidy) --->  7352 obs. 563 variables
 ---
 Tidi data set
-TidyFrame: processed frame ----------------------------------------------> 10299 obs. 563 variables
+TidyFrame: processed frame ---> 10299 obs. 563 variables
 ---
