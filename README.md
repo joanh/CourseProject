@@ -1,12 +1,14 @@
-CourseProject
-=============
+Course Project
+==============
 
 Getting and Cleaning Data, course project
 
-Code works for an specific path (my personal computer file), but I've splitted the personal path, from the subdirectory structure (train and/or test subdirectories).
+Code works for an specific path (my personal computer file), but I've splitted the personal path, from the original subdirectory structure (train and/or test subdirectories).
+
 Code: https://github.com/joanh/CourseProject/blob/master/run_analysis.R
+
 Frames:
----
+------
 Features --->   561 obs.   2 variables
 
 SubjTest: Subjets numbers (frame) --->  2947 obs.   1 variables
